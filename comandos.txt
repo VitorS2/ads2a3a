@@ -9,7 +9,7 @@ git config --global user.name "fulano"
 
 
 -- Comando para atualizar o email do usuario(são apenas infos locais)
-git config --global user.email "prof-luiz@outlook.com"
+git config --global user.email "fulano@outlook.com"
 
 
 -- Alterar branch master para main
@@ -28,7 +28,7 @@ git add nomedoarquivo.extensaodoarquivo
 
 
 -- Comando para inserir todas as modificaçãoes na pproxima versão
-git add.
+git add .
 
 
 
